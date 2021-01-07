@@ -8,13 +8,13 @@ import battleship.BattleShip;
  *          STAR WARS
  *
  *          Episode X
- *          The Sith Comes Back
+ *          Return of the Sith
  *
- * It is a period of civil war among the Rebel. Unknown of what is happening on the farthest ends of the galaxy, they
+ * It is a period of civil war among the Rebels. Unknown of what is happening on the farthest ends of the galaxy, they
  * cannot choose their leader. During the chaos, Imperial spies managed to steal secret plans to the Rebel's largest
  * base.
  * The evil Galactic Empire have re-built their ultimate weapon, the DEATH STAR. They hyperspaced themselves to the
- * rebel's base in Tatooine, with none other than Emperor Palpatine aboard the Star. He wants to end the Jedi and their
+ * rebel's base on Tatooine, with none other than Emperor Palpatine aboard the Star. He wants to end the Jedi and their
  * sacred temple.
  * They have been surrounded by all the Rebel ships in the galaxy...
  *
